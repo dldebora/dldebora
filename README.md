@@ -1,4 +1,4 @@
-### Oláa! Me chamo Débora Lopes
+# Olá, eu sou a Débora! 👋
 
 - 🌱 Estou começando agora...
   
@@ -14,13 +14,19 @@
   
   <img align="right" alt="dl-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938153062088990802/938154213312200774/image1.jpg">
 </div>
+
+ ## 🔗 Links
   
-  ##
- 
 <div> 
   <a href="https://instagram.com/dl_debora" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/yxZBq62T target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dldebora99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   <a href="https://www.linkedin.com/in/d%C3%A9bora-lopes-192b9b185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ 
+ ## 🚀 Sobre mim
+Eu sou formada em Design Gráfico e estou estudando FrontEnd
+para futuramente ser uma desenvolvedora.
   
  ![Snake animation](https://github.com/dldebora/dldebora/blob/output/github-contribution-grid-snake.svg)
-</div>
+
