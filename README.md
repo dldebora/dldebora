@@ -8,7 +8,7 @@
   <img width=350 align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=dldebora&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-## Habilidades
+## ✔️ Habilidades
   
 <div><br>
   <img align="center" alt="Js" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
